@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+.app-logo {
+  width: 180px;
+  margin-top: 12px;
+}
+.grid-list {
+  margin: 20px;
+  display: grid;
+  grid-template-columns: repeat(1, 5fr 1fr);
+  grid-auto-rows: auto;
+  grid-gap: 10px;
+}
+.subitems {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+	grid-gap: 20px;
+}
+.image-catalog {
+  width: 371px;
+  height: 371px;
+}
+.information {
+  padding: 0 10px;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  box-sizing: border-box;
+  background: #EDE7F6;
+  border-bottom: 1px solid #B39DDB;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+}
+.add-item-wrapper {
+  width: 20%;
+  margin: 0 auto;
+}
+
+@media(max-width: 640px) {
+	.grid-list {
+		grid-template-columns: 1fr;
+	}
+}

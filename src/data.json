@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name":"Карандаши Superb Writer",
+        "image":"https://color-it.ua/photos-low/599.599.048-mix.11.jpg",
+        "price": 22.50,
+        "description":"12 цветных карандаша."
+    },
+    {
+        "id": 2,
+        "name":"Карандаши Пегашка",
+        "image":"https://color-it.ua/photos-low/599.599.046.150.jpg",
+        "price": 16.20,
+        "description":"12 штук, 24 цвета."
+    },
+    {
+        "id": 3,
+        "name":"Карандаши Grib-rite",
+        "image":"http://nikitatoys.com.ua/files/img/goods/140327.jpg",
+        "price": 61,
+        "description":"12 штук, 24 цвета. Яркие цвета."
+    },
+    {
+        "id": 4,
+        "name":"Карандаши Raffine 24 Water",
+        "image":"https://i1.rozetka.ua/goods/2362541/26631761_images_2362541505.jpg",
+        "price": 82.90,
+        "description":"24 карандаша на водной основе."
+    },
+    {
+        "id": 5,
+        "name":"Карандаши Raffine 12",
+        "image":"https://i2.rozetka.ua/goods/2362550/26633025_images_2362550577.jpg",
+        "price": 34,
+        "description":"12 цветных карандаша. Для художественных работ."
+    },
+    {
+        "id": 6,
+        "name":"Карандаши Superb",
+        "image":"https://i2.rozetka.ua/goods/2362563/26632633_images_2362563537.jpg",
+        "price": 540.25,
+        "description":"36 карандашей яркий цветов в деревяной коробке. Профессиональные."
+    },
+    {
+        "id": 7,
+        "name":"Карандаши Пегаша Premium",
+        "image":"https://masteroffice.com.ua/uploads/shop/products/large/4018_origin.jpg",
+        "price": 32,
+        "description":"12 карандашов. Отличная укрываемость. Точилка в комплекте."
+    },
+    {
+        "id": 8,
+        "name":"Карандаши Marco renon",
+        "image":"https://images.ua.prom.st/546580907_w640_h640_art48.jpg",
+        "price": 120,
+        "description":"48 штук. Карандаши на водной основе. Профессиональные."
+    }
+]
